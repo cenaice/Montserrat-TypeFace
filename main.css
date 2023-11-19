@@ -119,6 +119,7 @@ img {
 .container-text div {
   flex: 1; /* Allows each child to grow and take equal space */
   padding: 20px; /* Add padding for space inside the elements */
+  padding-bottom: 60px;
 }
 
 .container-p p {
